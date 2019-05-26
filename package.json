@@ -1,0 +1,15 @@
+{
+  "name": "jwa-purejs",
+  "version": "1.0.0",
+  "description": "ES256",
+  "main": "jwa.js",
+  "repository": "git@github.com:mvasilkov/jwa-purejs.git",
+  "author": "Mark Vasilkov (https://github.com/mvasilkov)",
+  "license": "MIT",
+  "dependencies": {
+    "ecdsa-sig-formatter": "^1.0.11",
+    "elliptic": "^6.4.1",
+    "fast-sha256": "^1.1.0",
+    "parse-asn1": "^5.1.4"
+  }
+}
