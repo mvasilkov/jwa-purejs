@@ -1,8 +1,17 @@
 {
   "name": "jwa-purejs",
-  "version": "1.0.0",
-  "description": "ES256",
+  "version": "1.0.1",
+  "description": "A pure JavaScript implementation of the RFC 7518 ES256 digital signature algorithm",
+  "keywords": [
+    "jwa",
+    "es256",
+    "ecdsa",
+    "isomorphic"
+  ],
   "main": "jwa.js",
+  "files": [
+    "jwa.js"
+  ],
   "repository": "git@github.com:mvasilkov/jwa-purejs.git",
   "author": "Mark Vasilkov (https://github.com/mvasilkov)",
   "license": "MIT",
